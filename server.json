@@ -2,31 +2,31 @@
     "myBudget":[
     {
         "title": "Personal Expenses",
-        "budget": 300
+        "budget": 200
     },
     {
         "title": "Rent",
-        "budget": 350
+        "budget": 480
     },
     {
         "title": "Market place",
-        "budget": 85
+        "budget": 90
     },
     {
         "title": "Groceries",
-        "budget": 30
+        "budget": 80
     },
     {
         "title": "Gas",
-        "budget": 250
+        "budget": 100
     },
     {
         "title": "Travel",
-        "budget": 450
+        "budget": 300
     },
     {
         "title": "Other",
-        "budget": 359
+        "budget": 200
     }
 
 ]
